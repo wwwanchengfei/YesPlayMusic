@@ -150,7 +150,7 @@ export function createMenu(win, store) {
               {
                 role: 'window',
                 id: 'window',
-                label: 'YesPlayMusic',
+                label: '静听松风寒',
                 type: 'checkbox',
                 checked: true,
                 click: () => {

@@ -21,7 +21,7 @@ module.exports = {
     },
   },
   pwa: {
-    name: 'YesPlayMusic',
+    name: '静听松风寒',
     iconPaths: {
       favicon32: 'img/icons/favicon-32x32.png',
     },
