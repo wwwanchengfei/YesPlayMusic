@@ -38,7 +38,7 @@ module.exports = {
       entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html',
-      title: '静听松风寒',
+      title: 'YesPlayMusic',
       chunks: ['main', 'chunk-vendors', 'chunk-common', 'index'],
     },
   },
